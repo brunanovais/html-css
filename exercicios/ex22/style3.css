@@ -1,9 +1,13 @@
 @charset "UTF-8";
 
 div.quadrado {
-    background-image: url(/ima)
     height: 200px;
     border: 1px solid black;
     border-radius: 20px;
     margin: 10px;
+    background-image: url(/imagens/wallpaper002.jpg);
+}
+
+div#q1 {
+    background-image: url(/exercicios/ex22/imagens/wallpaper002.jpg);
 }
